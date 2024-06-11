@@ -1,0 +1,109 @@
+{
+   "checksum": "929a6c9de6ad94806ce06dad9ebda4e5",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13362121965407081",
+            "date_last_used": "0",
+            "guid": "377e9b8d-eb05-4589-bc24-c9a24d067afe",
+            "id": "32",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/dell.html"
+         }, {
+            "children": [ {
+               "date_added": "13330027059824630",
+               "date_last_used": "0",
+               "guid": "457f9e34-4c3e-4cfd-a82c-a434a213c89f",
+               "id": "25",
+               "name": "Dell Auction",
+               "show_icon": false,
+               "source": "unknown",
+               "type": "url",
+               "url": "http://www.dellauction.com/"
+            }, {
+               "date_added": "13330027059824630",
+               "date_last_used": "0",
+               "guid": "e5354827-a6fa-493e-820f-f7024383297d",
+               "id": "26",
+               "name": "Dell",
+               "show_icon": false,
+               "source": "unknown",
+               "type": "url",
+               "url": "http://www1.ap.dell.com/content/default.aspx?c=in&l=en&s=gen"
+            }, {
+               "date_added": "13330027059824630",
+               "date_last_used": "0",
+               "guid": "7df05c5b-c46e-4a4b-a94d-2fa43d9a7a91",
+               "id": "27",
+               "name": "Support.Dell.Com",
+               "show_icon": false,
+               "source": "unknown",
+               "type": "url",
+               "url": "http://www.dell.com/support/home"
+            } ],
+            "date_added": "13361447950290133",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "1f3cc50d-d9a1-4814-96f7-c158fcbf82ac",
+            "id": "24",
+            "name": "Dell",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13360577043019814",
+            "date_last_used": "0",
+            "guid": "db24fe86-e900-4362-b307-598705bc83a8",
+            "id": "28",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/dell.html"
+         }, {
+            "date_added": "13361447946225221",
+            "date_last_used": "0",
+            "guid": "d597e372-cd2d-4523-aca0-bb4ddaa4d54a",
+            "id": "7",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/dell.html"
+         } ],
+         "date_added": "13361447945972653",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13361447945972659",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13361447945972660",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

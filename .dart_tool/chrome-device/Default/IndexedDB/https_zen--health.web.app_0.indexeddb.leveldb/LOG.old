@@ -1,0 +1,10 @@
+2024/05/29-15:23:49.693 7144 Creating DB C:\Users\Swapnil\AppData\Local\Temp\flutter_tools.e4b96cad\flutter_tools_chrome_device.2985786d\Default\IndexedDB\https_zen--health.web.app_0.indexeddb.leveldb since it was missing.
+2024/05/29-15:23:49.698 7144 Reusing MANIFEST C:\Users\Swapnil\AppData\Local\Temp\flutter_tools.e4b96cad\flutter_tools_chrome_device.2985786d\Default\IndexedDB\https_zen--health.web.app_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/29-15:23:49.704 84bc Level-0 table #5: started
+2024/05/29-15:23:49.706 84bc Level-0 table #5: 754 bytes OK
+2024/05/29-15:23:49.708 84bc Delete type=0 #3
+2024/05/29-15:23:49.708 84bc Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/05/29-15:23:52.241 84bc Level-0 table #7: started
+2024/05/29-15:23:52.242 84bc Level-0 table #7: 5516 bytes OK
+2024/05/29-15:23:52.244 84bc Delete type=0 #4
+2024/05/29-15:23:52.244 7144 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
